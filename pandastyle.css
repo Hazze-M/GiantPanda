@@ -1,7 +1,13 @@
-/*body{
-    background-color: ;
-}*/
+body{
+  font-family: Arial;
+}
+
 
 img {
     width: 100%;
+}
+
+.column {
+    width: 600px;
+    margin: 40px auto;
 }
