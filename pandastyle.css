@@ -19,6 +19,7 @@ img {
 p{
     border: solid 5px grey;
     padding: 20px;
+    border-radius: 10px;
 }
 
 
